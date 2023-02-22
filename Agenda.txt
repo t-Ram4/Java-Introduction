@@ -1,0 +1,13 @@
+ 1.Introduction to Java
+	.What is required to develop and run any program
+	.JDK vs JRE vs JVM
+	.What is Java
+	.History
+	.Versions and Editions
+	.Java Devlopment Environment
+	.Java Features-Platform independant
+	.Your first Java program
+	.How to compile and run
+	.Use of IDEs
+
+
